@@ -1,8 +1,8 @@
-Flutter Notes App
+#Flutter Notes App
 
 App build using Flutter with in built sqflite databse to store the contents of notes.
 
-App Face:
+#App Face:
 
 ![photo_2020-05-28_18-11-54](https://user-images.githubusercontent.com/31183466/83143051-fb8a9980-a10e-11ea-893a-0a6860a66a64.jpg).
 
